@@ -1,0 +1,8 @@
+/* Write your global styles here, in PostCSS syntax */
+
+@import '@fontsource/fira-mono';
+
+@tailwind base;
+/*  Other styles go here */
+@tailwind components;
+@tailwind utilities;
